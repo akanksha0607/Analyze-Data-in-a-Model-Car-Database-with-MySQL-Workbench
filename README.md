@@ -5,8 +5,11 @@ Mint Classics Company, a renowned retailer specializing in classic model cars an
 As a data analyst, you play a pivotal role in this venture. Your mission is to leverage MySQL Workbench to delve into the business's intricacies by meticulously examining the existing data. You will work with a designated data model and sample data tables, meticulously identifying the aspects of the data that can contribute to informed decisions about inventory reduction.
 
 Key Responsibilities :
+
 -->Warehouse Optimization: Where are items currently stored, and could rearranging them lead to the elimination of an entire warehouse?
+
 -->Sales and Inventory Relationship: How do inventory numbers correlate with sales figures, and do the current inventory counts align with the requirements for each product?
+
 -->Inventory Efficiency: Are certain items stagnant in storage, raising the question of whether they should be discontinued from the product line?
 
 # Project Objectives:
