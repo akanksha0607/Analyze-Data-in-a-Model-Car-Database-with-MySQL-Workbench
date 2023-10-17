@@ -30,13 +30,42 @@ where:
 Gross Profit = Revenue - Cost of Goods Sold (COGS)
 Revenue = (Quantity Sold * Price per Unit)
 
--->Year-over-Year Vehicle Sales Growth Rate :
-the relative change in the number of vehicles sold by a company or in a specific market between one year and the previous year. A positive growth rate signifies an increase in sales, while a negative rate indicates a decrease.
-The Year-over-Year Vehicle Sales Growth Rate  is calculated using the following formula:
+--> Year-over-Year Vehicle Sales Growth Rate :
+The relative change in the number of vehicles sold by a company or in a specific market between one year and the previous year. A positive growth rate signifies an increase in sales, while a negative rate indicates a decrease.
+The Year-over-Year Vehicle Sales Growth Rate formula:
 
-Year-over-Year Growth Rate (%) = ((Vehicle Sales in Current Year−Vehicle Sales in Previous Year)*100) / Vehicle Sales in Previous Year 
+Year-over-Year Growth Rate (%) = ((Vehicle Sales in Current Year−Vehicle Sales in Previous Year)*100) / (Vehicle Sales in Previous Year) 
 ​
 Where:
 Vehicle Sales in Current Year: The total number of vehicles sold in the current year.
 Vehicle Sales in Previous Year: The total number of vehicles sold in the previous year.
 
+--> Sales-to-Initial Stock Percentage : 
+The proportion of initial stock that has been sold as a percentage of the total initial stock. It provides insights into how efficiently a business is managing its inventory and how quickly products are being sold.
+Sales-to-Initial Stock Percentage Formula:
+
+Sales-to-Initial Stock Percentage (%) = (Quantity Sold/Initial Stock) * 100
+​
+Where:
+Quantity Sold: The total number of items or products sold during the specified time period.
+Initial Stock: The total quantity of items or products available in the inventory at the beginning of the same time period.
+
+--> Inventory Composition Percentage :
+Inventory Composition Percentage is a metric that provides the percentage representation of a specific category, type, or location of inventory within the entire inventory. It helps assess the relative weight of a particular subset of inventory.
+Inventory Composition Percentage Formula:
+
+Inventory Composition Percentage (%) = (Quantity of Specific Inventory / Total Inventory Quantity)*100 
+
+Where:
+Quantity of Specific Inventory: The total quantity of a specific type, category, or location of inventory.
+Total Inventory Quantity: The overall quantity of all inventory, including the specific category or location.
+
+--> Total Sales Revenue :
+Total Sales Revenue is the sum of all the money a business has earned from selling its products.
+Total Sales Revenue Formula:
+
+Total Sales Revenue = Total Quantity Sold × Selling Price per Unit
+
+Where:
+Total Quantity Sold: The sum of all units of products or services sold.
+Selling Price per Unit: The price at which each unit is sold.
