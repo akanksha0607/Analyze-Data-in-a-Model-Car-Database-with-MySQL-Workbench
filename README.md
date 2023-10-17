@@ -49,7 +49,7 @@ The proportion of initial stock that has been sold as a percentage of the total 
 Sales-to-Initial Stock Percentage Formula:
 
 Sales-to-Initial Stock Percentage (%) = (Quantity Sold/Initial Stock) * 100
-​
+
 Where:
 Quantity Sold: The total number of items or products sold during the specified time period.
 Initial Stock: The total quantity of items or products available in the inventory at the beginning of the same time period.
