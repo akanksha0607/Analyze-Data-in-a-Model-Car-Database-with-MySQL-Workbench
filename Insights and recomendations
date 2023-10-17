@@ -14,4 +14,28 @@
 
 7. Warehouse c (west) operates at only 50% of its Warehouse Percentage Capacity.
 
+# Recommendations:
+
+---> It is recommended to consider redistributing inventory from warehouse c (west) to warehouses a (north) or b (east).
+
+This recommendation is based on the following insights:
+
+Optimizing Warehouse Utilization: Warehouse c is currently operating at only 50% of its Warehouse Percentage Capacity, indicating potential inefficiencies. Redistributing inventory could lead to a more efficient use of resources.
+
+Sales Trend Analysis: A significant and abrupt decline in sales was observed in 2005, while there was a notable increase in 2004. Redistributing inventory could help balance the storage capacity to better align with fluctuating sales trends.
+
+Cost Savings: Reducing the number of warehouses by eliminating warehouse c has the potential for cost savings in terms of maintenance, overhead, and operational expenses.
+
+Resource Allocation: Consolidating inventory into warehouses with higher utilization rates, such as a (north) and b (east), can lead to improved resource allocation and streamlined logistics.
+
+Enhanced Efficiency: Redistributing inventory could contribute to a more streamlined and cost-effective inventory management process.
+
+---> 
+
+
+
+
+
+
+
 
