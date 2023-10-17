@@ -29,7 +29,9 @@ The formula to calculate profit margin is:
 Profit Margin (%) = (Gross Profit / Total Revenue) x 100
 
 where:
+
 Gross Profit = Revenue - Cost of Goods Sold (COGS)
+
 Revenue = (Quantity Sold * Price per Unit)
 
 2. Year-over-Year Vehicle Sales Growth Rate :
@@ -40,7 +42,9 @@ The Year-over-Year Vehicle Sales Growth Rate formula:
 Year-over-Year Growth Rate (%) = ((Vehicle Sales in Current Year−Vehicle Sales in Previous Year)*100) / (Vehicle Sales in Previous Year) 
 
 Where:
+
 Vehicle Sales in Current Year: The total number of vehicles sold in the current year.
+
 Vehicle Sales in Previous Year: The total number of vehicles sold in the previous year.
 
 3. Sales-to-Initial Stock Percentage : 
@@ -51,7 +55,9 @@ Sales-to-Initial Stock Percentage Formula:
 Sales-to-Initial Stock Percentage (%) = (Quantity Sold/Initial Stock) * 100
 
 Where:
+
 Quantity Sold: The total number of items or products sold during the specified time period.
+
 Initial Stock: The total quantity of items or products available in the inventory at the beginning of the same time period.
 
 4. Inventory Composition Percentage :
@@ -62,7 +68,9 @@ Inventory Composition Percentage Formula:
 Inventory Composition Percentage (%) = (Quantity of Specific Inventory / Total Inventory Quantity)*100 
 
 Where:
+
 Quantity of Specific Inventory: The total quantity of a specific type, category, or location of inventory.
+
 Total Inventory Quantity: The overall quantity of all inventory, including the specific category or location.
 
 5. Total Sales Revenue :
@@ -73,5 +81,7 @@ Total Sales Revenue Formula:
 Total Sales Revenue = Total Quantity Sold × Selling Price per Unit
 
 Where:
+
 Total Quantity Sold: The sum of all units of products or services sold.
+
 Selling Price per Unit: The price at which each unit is sold.
